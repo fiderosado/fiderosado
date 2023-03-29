@@ -9,19 +9,14 @@
 <a href="https://fb.com/https://www.facebook.com/fidel.remediosrosado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fidel.remediosrosado" height="30" width="40" /></a>
 </p>
 
-Basic application..!
-Create your applications using one already prepared initially, we offer programming services tailored to the client.
-Aplicación Base..!
-Crea tus aplicaciones usando una ya preparada inicialmente, ofrecemos servicios de programación a medida del cliente..
+# Basic application..!
+- Create your applications using one already prepared initially, we offer programming services tailored to the client.
+
 
 ![App Screenshot](https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/338025810_1204017437151445_86108424837223743_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=gN4C01FHML8AX9sqLEf&_nc_ht=scontent-mia3-2.xx&oh=00_AfBZgriz2rRvIk7QYTd_PklvxH-g8GrkZZGC5YiVhHf7Vw&oe=642A5FC3)
 
 ## Cabotur platform..!
-## Get ready, travel and enjoy with us!
-
-## Plataforma Cabotur..!
-## Prepárate, Viaja y disfruta con nosotros.!
-
+- Get ready, travel and enjoy with us!
 ![App Screenshot](https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/338237918_1640448396470383_5692537060845192724_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=n4G-tg1EKHQAX_Zij1h&_nc_ht=scontent-mia3-1.xx&oh=00_AfCIGszOFRSfaSQxQW5kvkE0BvkmoVtP1cKGxPrdpbAauQ&oe=64295567)
 
 <h3 align="left">Languages and Tools:</h3>
