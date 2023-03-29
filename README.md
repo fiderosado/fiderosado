@@ -12,13 +12,13 @@
 # Basic application..!
 - Create your applications using one already prepared initially, we offer programming services tailored to the client.
 <p align="left">
-<img align="left" height="200" src="[https://i.imgflip.com/65efzo.gif](https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/338025810_1204017437151445_86108424837223743_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=gN4C01FHML8AX9sqLEf&_nc_ht=scontent-mia3-2.xx&oh=00_AfBZgriz2rRvIk7QYTd_PklvxH-g8GrkZZGC5YiVhHf7Vw&oe=642A5FC3)"  />
+<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif](https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/338025810_1204017437151445_86108424837223743_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=gN4C01FHML8AX9sqLEf&_nc_ht=scontent-mia3-2.xx&oh=00_AfBZgriz2rRvIk7QYTd_PklvxH-g8GrkZZGC5YiVhHf7Vw&oe=642A5FC3"  />
 </p>
 
 ## Cabotur platform..!
 - Get ready, travel and enjoy with us!
 <p align="left">
-<img align="right" height="200" src="[https://i.imgflip.com/65efzo.gif](https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/338237918_1640448396470383_5692537060845192724_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=n4G-tg1EKHQAX_Zij1h&_nc_ht=scontent-mia3-1.xx&oh=00_AfCIGszOFRSfaSQxQW5kvkE0BvkmoVtP1cKGxPrdpbAauQ&oe=64295567)"  />
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif](https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/338237918_1640448396470383_5692537060845192724_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=n4G-tg1EKHQAX_Zij1h&_nc_ht=scontent-mia3-1.xx&oh=00_AfCIGszOFRSfaSQxQW5kvkE0BvkmoVtP1cKGxPrdpbAauQ&oe=64295567"  />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
