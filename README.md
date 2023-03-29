@@ -2,6 +2,13 @@
 
 ![Logo](https://media.licdn.com/dms/image/D4E16AQEAzfdoKaxo8Q/profile-displaybackgroundimage-shrink_350_1400/0/1680125717197?e=1685577600&v=beta&t=iqxVOJhNgERYvIinpOrrkdb8ipejfSWEDzpeOTHitpk)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fiderosado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fiderosado" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fidel-remedios-rosado-84b688113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fidel-remedios-rosado-84b688113/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/fidel.remediosrosado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fidel.remediosrosado" height="30" width="40" /></a>
+</p>
+
 ## Application Base
 
 ![App Screenshot](https://media.licdn.com/media/AAYQAgTPAAgAAQAAAAAAADVuOvKzTF-3RD6j-qFPqhubBQ.png)
