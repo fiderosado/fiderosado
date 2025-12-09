@@ -98,9 +98,16 @@ Git/GitHub, WebSockets, Cloudinary, ForestAdmin, Strapi
 ![vs](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+![Android studio](https://img.shields.io/badge/androidstudio-brightgreen?style=for-the-badge&logo=androidstudio&logoColor=%23fff&labelColor=brightgreen&color=brightgreen)
 ![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Html5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26)
+![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%23777BB4)
+![android](https://img.shields.io/badge/android-brightgreen?style=for-the-badge&logo=android&logoColor=%23fff&labelColor=brightgreen&color=brightgreen)
+![kotlin](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=%23fff&labelColor=%237F52FF&color=%237F52FF)
+![notion](https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=%23fff&labelColor=%23000000&color=%23000000)
+
 
 ---
 
